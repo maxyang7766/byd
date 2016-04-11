@@ -15,6 +15,9 @@ public class Item {
 	public void setItemId( Long itemId ) {
 		this.itemId = itemId;
 	}
+	
+	
+	
 
 	public String getItemName() {
 		return itemName;
